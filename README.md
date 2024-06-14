@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-Hey there! Welcome to my GitHub corner, where I unleash my coding creativity and share some of the cool projects I'm working on. Feel free to explore, contribute, or just hang out. Let's dive in!
+Hey there! Welcome to my GitHub corner, where I unleash my coding creativity and share some of the cool projects I'm working on. Feel free to explore, contribute, or just hang out.
 
 ## About me 🇪🇹
 
