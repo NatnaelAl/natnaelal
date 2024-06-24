@@ -15,4 +15,3 @@ I am a student at Princeton University and an intern here at Github. Born in Eth
 
 Linkedin: https://www.linkedin.com/in/alemayehu-natnael/
 
-Instagram: https://www.instagram.com/not.nael_/
